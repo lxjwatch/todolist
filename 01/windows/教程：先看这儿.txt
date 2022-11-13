@@ -1,0 +1,27 @@
+
+【请复制打开该网站查看教程】：https://docs.qq.com/doc/DQnpmUVRrUldWV01u
+
+2020年-2022年版本已内置激活码，运行即可；
+                 步骤说明：
+	1、双击运行 一键激活.vbs 文件，弹窗出现success即可。
+	2、重启软件，已处于激活状态，新建或打开一个项目，选Help 菜单 Register选项 即可查看激活状态
+	
+	3、关闭自动更新
+	随便新建或打开一个项目，进入开发界面，点击菜单File-》Settings
+		在弹窗左侧列表选第一个Appearance-》System settings-》Updates-》去掉所有勾选，点ok即可
+
+
+2018年-2019年版本需要双击运行 一键激活.vbs 文件后在复制文件夹里面的activa code文本里面的激活码进行激活
+	1、双击运行 一键Clean.vbs 文件，弹窗出现success即可。
+	2、重启软件，复制粘贴 activation code.txt 内容到Activation code 区域，点active即可激活成功。
+
+
+
+JetBrains全家桶软件正版安装包
+	官网下载软件：https://www.jetbrains.com/products/  进去选择对应工具即可
+
+	
+	
+	
+	
+	
